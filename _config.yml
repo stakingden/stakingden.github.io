@@ -27,7 +27,7 @@ robots:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://stakingden.github.io/
+url: https://stakingden.com/
 
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
@@ -50,7 +50,7 @@ ga:
 # Leave empty (just "plausible:" with subitems commented out) to disable.
 #plausible:
 plausible:
-    domain: 'stakingden.github.io'
+# domain: 'stakingden.github.io'
 
 
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
